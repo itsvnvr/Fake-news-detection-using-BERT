@@ -143,11 +143,11 @@ CONFIDENCE: 99.8%
 ---
 
 ## Author
-
 Nguyen Phuong Vu
-LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/vu-nguyen-454889335/)
-GitHub: [https://github.com/your-username ](https://github.com/itsvnvr) 
-Email: iamvuphuong2005@gmail.com
+
+- LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/vu-nguyen-454889335/)
+- GitHub: [https://github.com/your-username ](https://github.com/itsvnvr) 
+- Email: iamvuphuong2005@gmail.com
 
 ---
 
