@@ -139,22 +139,15 @@ RESULT: FAKE NEWS
 CONFIDENCE: 99.8%
 ```
 
----
-
-## Future Improvements
-
-- Deploy as a web API using FastAPI or Flask.
-- Reduce model size through quantization for mobile or edge devices.
-- Add interpretability with LIME or SHAP to visualize influential words.
 
 ---
 
 ## Author
 
-Your Name  
-LinkedIn: https://linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username  
-Email: your.email@example.com  
+Nguyen Phuong Vu
+LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/vu-nguyen-454889335/)
+GitHub: [https://github.com/your-username ](https://github.com/itsvnvr) 
+Email: iamvuphuong2005@gmail.com
 
 ---
 
