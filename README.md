@@ -1,9 +1,9 @@
 # Fake News Detection using BERT
+> A high-accuracy Binary Classification system leveraging Transfer Learning with the BERT (Bidirectional Encoder Representations from Transformers) architecture to distinguish between reliable news and misinformation.
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
 ![BERT](https://img.shields.io/badge/NLP-BERT-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-A high-accuracy Binary Classification system leveraging Transfer Learning with the BERT (Bidirectional Encoder Representations from Transformers) architecture to distinguish between reliable news and misinformation.
 
 ---
 
