@@ -47,6 +47,12 @@ The model was trained on the ISOT Fake News Dataset (or similar aggregated datas
 
 The dataset is balanced to avoid bias.
 
+### Dataset Distribution
+
+The following image shows the distribution of real vs fake samples:
+
+![Dataset Distribution](images/dataset_distribution.png)
+
 ---
 
 ## Model Architecture
@@ -89,7 +95,9 @@ The model was trained for 3 epochs using Adam optimizer (`lr=3e-5`) and Binary C
 
 ### Confusion Matrix
 
-The model achieved near-perfect separation of Fake vs Real classes with almost no False Positives or False Negatives.
+The confusion matrix below shows the near-perfect separation between Fake and Real news:
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
